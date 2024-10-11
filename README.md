@@ -4,10 +4,12 @@ Unused Soldering Workshop for IEEE's University of Arizona Student Chapter
 ## Renders and Diagrams 
 
 This is a 3D render of the PCB. Since this will not be a part of the soldering workshop, it's unlikely to be updated, but raw KiCad files are available in the repository.
+
 ![3D Render](https://github.com/user-attachments/assets/5e25edbd-a0d7-4e0a-a8b0-00d6232f5b41)
 
 
 This is a diagram of the circuit. Again, it's unlikely to be revised.
+
 ![Circuit](https://github.com/user-attachments/assets/de409615-34d5-4ec8-8547-cdcc67b7556c)
 
 
