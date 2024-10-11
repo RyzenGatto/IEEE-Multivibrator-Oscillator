@@ -15,8 +15,9 @@ This is a diagram of the circuit.
 
 
 # Parts
-Resistors are as marked on the circuit diagram. A Capacitor of 220uF is highly unrecommended as it will take far too long to charge and your oscillator will be very slow. Around 20uF will be fine for low voltage and low current. 
+Resistors are 10k where used. Capacitors are 20uF 
 Both LED's should be the same color/same voltage for equal oscillation.
+Input voltage is designed to be 3 volts from a coin cell battery. More voltage would require resistors to the LEDs.
 
 The transistors used are BC547 and act as switches in this circuit. They are NPN transistors which is wanted because we want the transistors to open when voltage is applied to it, or when voltage is high.
 
