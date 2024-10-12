@@ -16,7 +16,8 @@ These are the 3D renders of the PCB. Raw STEP and Gerber files are available in 
 
 **PCB layout from KiCad**
 
-![PCB Net](https://github.com/user-attachments/assets/f79aaba7-aeb5-4326-9d0f-6db664178b49)
+![PCB Net](https://github.com/user-attachments/assets/cbb96ef4-1def-498e-b085-6d09324706a6)
+
 
 
 This is a diagram of the circuit.
