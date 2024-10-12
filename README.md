@@ -11,7 +11,8 @@ These are the 3D renders of the PCB. Raw STEP and Gerber files are available in 
 
 **Bottom**
 
-![PCB Rear](https://github.com/user-attachments/assets/c76d0a30-c155-405b-8779-5264b1107cfc)
+![PCB Rear](https://github.com/user-attachments/assets/2cf735bd-d365-472a-93a6-347882ae72e9)
+
 
 
 **PCB layout from KiCad**
