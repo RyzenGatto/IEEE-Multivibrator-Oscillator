@@ -1,4 +1,4 @@
-# IEEE-Multivibrator-Oscillator
+# IEEE-Astable Multivibrator 
 Unused Soldering Workshop for IEEE's University of Arizona Student Chapter
 
 ## Renders and Diagrams 
