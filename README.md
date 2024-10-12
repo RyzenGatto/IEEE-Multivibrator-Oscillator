@@ -9,7 +9,8 @@ This is a 3D render of the PCB. Raw STEP and Gerber files are available in the r
 
 
 This is a diagram of the circuit.
-![Circuit](https://github.com/user-attachments/assets/939393a5-7ce0-413a-ac0b-b434ce1efc4a)
+![Circuit](https://github.com/user-attachments/assets/b6eabcd3-883c-4e86-bed4-6aeffe1d4ba5)
+
 
 
 
