@@ -3,9 +3,20 @@ Unused Soldering Workshop for IEEE's University of Arizona Student Chapter
 
 ## Renders and Diagrams 
 
-This is a 3D render of the PCB. Raw STEP and Gerber files are available in the repository.
+These are the 3D renders of the PCB. Raw STEP and Gerber files are available in the repository.
 
-![3D Render](https://github.com/user-attachments/assets/5e25edbd-a0d7-4e0a-a8b0-00d6232f5b41)
+**Top**
+
+![3D Render](https://github.com/user-attachments/assets/646e99a1-a1e6-4e54-877c-bfa34c5836af)
+
+**Bottom**
+
+![PCB Rear](https://github.com/user-attachments/assets/c76d0a30-c155-405b-8779-5264b1107cfc)
+
+
+**PCB layout from KiCad**
+
+![PCB Net](https://github.com/user-attachments/assets/f79aaba7-aeb5-4326-9d0f-6db664178b49)
 
 
 This is a diagram of the circuit.
