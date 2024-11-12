@@ -1,5 +1,5 @@
 # IEEE-Astable Multivibrator 
-Unused Soldering Workshop for IEEE's University of Arizona Student Chapter
+Soldering Workshop for IEEE's University of Arizona Student Chapter
 
 ## Renders and Diagrams 
 
